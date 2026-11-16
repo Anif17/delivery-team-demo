@@ -43,3 +43,5 @@ Requires Node 22 or newer. There is nothing to install.
 - Every change arrives as a pull request against `main`. The `test` check must
   pass before it can be merged. Nobody pushes to `main` directly.
 - No runtime dependencies.
+
+<!-- probe: harmless line, this branch is never merged -->
