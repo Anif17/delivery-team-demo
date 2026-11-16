@@ -1,0 +1,11 @@
+{
+  "name": "delivery-team-demo",
+  "version": "0.1.0",
+  "description": "A tiny JSON HTTP API that a team of AI agents extends through pull requests.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/server.js"
+  }
+}
